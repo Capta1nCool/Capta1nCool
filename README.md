@@ -1,12 +1,23 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Capta1nCool/Capta1nCool/blob/main/resources/waving.gif">, I'm Captain Cool</h1>
-<h4 align="center">A freelance developer and also a student. Currently working on <a href="https://www.archron.io/" target="_blank">archron.io</a>, and also hold the role of  client developer at <a href="https://github.com/OnRushStudio/" target="_blank">Onrush studios</a> 
+<img src="./resources/header.png">
+
+
+<br clear="both">
+
+
+<div align="center" style="padding-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
-
-<div align="center">
-  <img  src="https://github.com/Capta1nCool/Capta1nCool/blob/main/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
------
