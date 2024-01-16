@@ -1,6 +1,6 @@
 <img src="./resources/header.jpg" alt="banner">
 
-<br clear="both">
+<br>
 
 <h1 align="center">Hi, I'm Captain Cool
 <h4 align="center">A freelance developer. Currently working on <a href="https://www.archron.io/" target="_blank">archron.io</a>, and also hold the role of  electron developer at <a href="https://github.com/OnRushStudio/" target="_blank">Onrush studios</a> 
