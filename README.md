@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Capta1ncool
+- 👋 Hi, I’m Captain Cool
 - 👀 I’m interested in Godot, threejs, Web Dev and Game Dev
 - 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on game dev projects 
