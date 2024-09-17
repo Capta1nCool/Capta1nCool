@@ -1,4 +1,3 @@
-<!--horizontal divider(gradiant)-->
 <img src="./resources/animated_bar.gif">
 
 ### Hi there 👋
@@ -13,10 +12,13 @@ I'm **Captain Cool**, a passionate web and game developer from India
 
 ---
 
--  [**Venge.io**](https://venge.io/): Nov 2022 - March 2024
--  [**Tribals.io**](https://tribals.io/): Nov 2022 - March 2024
+-  [**Venge.io**](https://venge.io/) and [**Tribals.io**](https://tribals.io/): Nov 2022 - March 2024
+    <br/>
+    *Worked across both platforms simultaneously, contributing to the native desktop experience*
 -  [**Archron.io**](https://archron.io/): Aug 2023 - Nov 2023
 -  [**Amplenote.com**](https://www.amplenote.com/): Presently working
+    <br/>
+    *Building plugins to enhance user experience and improve note-taking functionality.*
 
 <div align="center">
 
