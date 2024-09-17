@@ -6,7 +6,7 @@
 I'm **Captain Cool**, a passionate web and game developer from India
 
 -  💻 **Tech Stack:** TypeScript / Svelte / Rust / Python / Three.js / SQL / Godot / GO / Rapier
--  🛠 **Setup:** [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [Zen](https://zen-browser.app/) / [Alacritty](https://alacritty.org/)
+-  🛠 **Setup:** [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [Zen](https://zen-browser.app/) / [Alacritty](https://alacritty.org/)
 - 🌱 I'm currently learning webGPU and Rust.
 
 ### Work Experience
@@ -27,8 +27,9 @@ I'm **Captain Cool**, a passionate web and game developer from India
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Nixos](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge)
-![Svelte](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 </div>
