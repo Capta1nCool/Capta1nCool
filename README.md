@@ -14,7 +14,7 @@ I'm **Captain Cool**, a passionate web and game developer from India
 
 -  [**Venge.io**](https://venge.io/) and [**Tribals.io**](https://tribals.io/): Nov 2022 - March 2024
     <br/>
-    *Worked across both platforms simultaneously, contributing to the native desktop experience*
+    *Worked across both platforms, working on the native desktop experience*
 -  [**Archron.io**](https://archron.io/): Aug 2023 - Nov 2023
 -  [**Amplenote.com**](https://www.amplenote.com/): Presently working
     <br/>
