@@ -5,7 +5,7 @@
 I'm **Captain Cool**, a passionate web and game developer from India
 
 -  💻 **Tech Stack:** TypeScript / Svelte / Rust / Python / Three.js / SQL / Godot / GO / Rapier
--  🛠 **Setup:** [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [Zen](https://zen-browser.app/) / [Alacritty](https://alacritty.org/)
+-  🛠 **Setup:** [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [Neovim](https://neovim.io/) / [Zen](https://zen-browser.app/) / [Alacritty](https://alacritty.org/)
 - 🌱 I'm currently learning webGPU and Rust.
 
 ### Work Experience
