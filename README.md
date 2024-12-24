@@ -20,6 +20,8 @@ I'm **Captain Cool**, a passionate web and game developer from India
     <br/>
     *Building plugins to enhance user experience and improve note-taking functionality.*
 
+![](https://komarev.com/ghpvc/?username=capta1ncool)
+
 <div align="center">
 
 <br><br>
