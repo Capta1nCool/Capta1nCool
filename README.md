@@ -23,8 +23,8 @@ I'm **Captain Cool**, a passionate web and game developer from India
 ![](https://komarev.com/ghpvc/?username=capta1ncool)
 
 <div align="center">
-
-<br><br>
+<br />
+    
 ![THREEJS](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
